@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$/java.base">
+      <sourceFolder url="file://$MODULE_DIR$/java.base" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.compiler">
+      <sourceFolder url="file://$MODULE_DIR$/java.compiler" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.datatransfer">
+      <sourceFolder url="file://$MODULE_DIR$/java.datatransfer" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.desktop">
+      <sourceFolder url="file://$MODULE_DIR$/java.desktop" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.instrument">
+      <sourceFolder url="file://$MODULE_DIR$/java.instrument" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.logging">
+      <sourceFolder url="file://$MODULE_DIR$/java.logging" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.management">
+      <sourceFolder url="file://$MODULE_DIR$/java.management" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.management.rmi">
+      <sourceFolder url="file://$MODULE_DIR$/java.management.rmi" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.naming">
+      <sourceFolder url="file://$MODULE_DIR$/java.naming" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.net.http">
+      <sourceFolder url="file://$MODULE_DIR$/java.net.http" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.prefs">
+      <sourceFolder url="file://$MODULE_DIR$/java.prefs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.rmi">
+      <sourceFolder url="file://$MODULE_DIR$/java.rmi" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.scripting">
+      <sourceFolder url="file://$MODULE_DIR$/java.scripting" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.se">
+      <sourceFolder url="file://$MODULE_DIR$/java.se" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.security.jgss">
+      <sourceFolder url="file://$MODULE_DIR$/java.security.jgss" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.security.sasl">
+      <sourceFolder url="file://$MODULE_DIR$/java.security.sasl" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.smartcardio">
+      <sourceFolder url="file://$MODULE_DIR$/java.smartcardio" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.sql">
+      <sourceFolder url="file://$MODULE_DIR$/java.sql" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.sql.rowset">
+      <sourceFolder url="file://$MODULE_DIR$/java.sql.rowset" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.transaction.xa">
+      <sourceFolder url="file://$MODULE_DIR$/java.transaction.xa" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.xml">
+      <sourceFolder url="file://$MODULE_DIR$/java.xml" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/java.xml.crypto">
+      <sourceFolder url="file://$MODULE_DIR$/java.xml.crypto" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.accessibility">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.accessibility" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.aot">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.aot" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.attach">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.attach" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.charsets">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.charsets" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.compiler">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.compiler" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.crypto.cryptoki">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.crypto.cryptoki" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.crypto.ec">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.crypto.ec" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.crypto.mscapi">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.crypto.mscapi" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.dynalink">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.dynalink" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.editpad">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.editpad" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.hotspot.agent">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.hotspot.agent" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.httpserver">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.httpserver" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.internal.ed">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.internal.ed" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.internal.jvmstat">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.internal.jvmstat" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.internal.le">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.internal.le" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.internal.opt">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.internal.opt" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.internal.vm.ci">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.internal.vm.ci" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.internal.vm.compiler">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.internal.vm.compiler" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.internal.vm.compiler.management">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.internal.vm.compiler.management" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.jartool">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.jartool" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.javadoc">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.javadoc" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.jcmd">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.jcmd" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.jconsole">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.jconsole" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.jdeps">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.jdeps" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.jdi">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.jdi" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.jdwp.agent">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.jdwp.agent" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.jfr">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.jfr" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.jlink">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.jlink" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.jshell">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.jshell" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.jsobject">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.jsobject" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.jstatd">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.jstatd" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.localedata">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.localedata" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.management">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.management" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.management.agent">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.management.agent" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.management.jfr">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.management.jfr" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.naming.dns">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.naming.dns" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.naming.rmi">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.naming.rmi" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.net">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.net" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.pack">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.pack" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.rmic">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.rmic" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.scripting.nashorn">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.scripting.nashorn" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.scripting.nashorn.shell">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.scripting.nashorn.shell" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.sctp">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.sctp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.security.auth">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.security.auth" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.security.jgss">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.security.jgss" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.unsupported">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.unsupported" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.unsupported.desktop">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.unsupported.desktop" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.xml.dom">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.xml.dom" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/jdk.zipfs">
+      <sourceFolder url="file://$MODULE_DIR$/jdk.zipfs" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
